@@ -15,7 +15,7 @@ On January 1, 2035, all liquidity will be withdrawn. The Wooden Nickels tokens f
 ## Risks
 
 * If I die before January 1, 2035, no one gets anything.
-* If the Ergo blockchain is stops working before January 1, 2035, no one gets anything.
+* If the Ergo blockchain stops working before January 1, 2035, no one gets anything.
 * If the SigmaUSD protocol fails before January 1, 2035, no one gets anything.
 * If you are not one of the top 100 Wooden Nickels holders on January 1, 2035, you will not get anything.
 * If you do not like this promotion, don't use Wooden Nickels. I recommend not using them to everyone.
