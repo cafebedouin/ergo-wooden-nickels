@@ -6,7 +6,7 @@ This will be a limited time promotion of the Ergo cryptocurrency, and it will ru
 
 ## How It Works
 
-The total supply of Wooden Nickels is 97,739,924. This is the same total supply as Erg. On January 1, 2023, the total supply of Wooden Nickels will be add to Spectrum DEX in a Wooden Nickels / SigRSV pair, with 977,400 SigRSV tokens. The only way to get Wooden Nickels is to buy them, with SigRSV, or to get them from someone else who has bought them from the Wooden Nickels / SigRSV liquidity pool.
+The total supply of Wooden Nickels is 97,739,924. This is the same total supply as Erg. On January 1, 2023, the total supply of Wooden Nickels will be added to the Spectrum Decentralized EXchange (DEX) in a Wooden Nickels / SigRSV pair, with 977,400 SigRSV tokens. The only way to get Wooden Nickels is to buy them, with SigRSV, or to get them from someone else who has bought them from the Wooden Nickels / SigRSV liquidity pool.
 
 Initial liquidity has been locked using the Spectrum's Liquidity Locker for 1 year. Each year, the SigmaUSD protocol will be checked. If the version of SigmaUSD has not been undated, liquidity will be locked for another year. If it has been updated, pool liquidity will be withdrawn. The SigRSV will be sold and converted to the new version of SigRSV, and a new pool will be created with the equivalent value - minus SigmaUSA bank, Spectrum and transaction fees.
 
